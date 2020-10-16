@@ -3,8 +3,8 @@
 var p; // shortcut to reference prototypes
 var lib={};var ss={};var img={};
 lib.ssMetadata = [
-		{name:"firecraft_intro_atlas_1", frames: [[0,1299,1070,155],[0,1456,1070,155],[0,1142,1081,155],[0,1613,1054,155],[514,514,1265,155],[514,671,1250,155],[1083,1142,837,155],[1072,1299,817,155],[1781,0,211,662],[514,985,1129,155],[514,828,1204,155],[1724,0,43,39],[1542,364,102,134],[1542,0,180,180],[1542,182,180,180],[1781,664,180,180],[1720,846,180,180],[1072,1456,180,180],[1254,1456,180,180],[1436,1456,180,180],[1618,1456,180,180],[1902,846,95,85],[1646,364,86,110],[0,0,512,512],[514,0,512,512],[1028,0,512,512],[0,514,512,512]]},
-		{name:"firecraft_intro_atlas_2", frames: [[1026,982,512,512],[1026,1496,512,512],[0,982,1024,576],[0,0,1600,980]]}
+		{name:"firecraft_intro_atlas_1", frames: [[1026,982,512,512],[1026,1496,512,512],[0,982,1024,576],[0,0,1600,980]]},
+		{name:"firecraft_intro_atlas_2", frames: [[0,1299,1070,155],[0,1456,1070,155],[0,1142,1081,155],[0,1613,1054,155],[514,514,1265,155],[514,671,1250,155],[1083,1142,837,155],[1072,1299,817,155],[1781,0,211,662],[514,985,1129,155],[514,828,1204,155],[1724,0,43,39],[1542,364,102,134],[1542,0,180,180],[1542,182,180,180],[1781,664,180,180],[1720,846,180,180],[1072,1456,180,180],[1254,1456,180,180],[1436,1456,180,180],[1618,1456,180,180],[1902,846,95,85],[1646,364,86,110],[0,0,512,512],[514,0,512,512],[1028,0,512,512],[0,514,512,512]]}
 ];
 
 
@@ -28,182 +28,182 @@ lib.ssMetadata = [
 
 
 (lib.CachedBmp_9 = function() {
-	this.initialize(ss["firecraft_intro_atlas_1"]);
+	this.initialize(ss["firecraft_intro_atlas_2"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_8 = function() {
-	this.initialize(ss["firecraft_intro_atlas_1"]);
+	this.initialize(ss["firecraft_intro_atlas_2"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_7 = function() {
-	this.initialize(ss["firecraft_intro_atlas_1"]);
+	this.initialize(ss["firecraft_intro_atlas_2"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_6 = function() {
-	this.initialize(ss["firecraft_intro_atlas_1"]);
+	this.initialize(ss["firecraft_intro_atlas_2"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_11 = function() {
-	this.initialize(ss["firecraft_intro_atlas_1"]);
+	this.initialize(ss["firecraft_intro_atlas_2"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_10 = function() {
-	this.initialize(ss["firecraft_intro_atlas_1"]);
+	this.initialize(ss["firecraft_intro_atlas_2"]);
 	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_5 = function() {
-	this.initialize(ss["firecraft_intro_atlas_1"]);
+	this.initialize(ss["firecraft_intro_atlas_2"]);
 	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_4 = function() {
-	this.initialize(ss["firecraft_intro_atlas_1"]);
+	this.initialize(ss["firecraft_intro_atlas_2"]);
 	this.gotoAndStop(7);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_3 = function() {
-	this.initialize(ss["firecraft_intro_atlas_1"]);
+	this.initialize(ss["firecraft_intro_atlas_2"]);
 	this.gotoAndStop(8);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_2 = function() {
-	this.initialize(ss["firecraft_intro_atlas_1"]);
+	this.initialize(ss["firecraft_intro_atlas_2"]);
 	this.gotoAndStop(9);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_1 = function() {
-	this.initialize(ss["firecraft_intro_atlas_1"]);
+	this.initialize(ss["firecraft_intro_atlas_2"]);
 	this.gotoAndStop(10);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.archer_0 = function() {
-	this.initialize(ss["firecraft_intro_atlas_2"]);
+	this.initialize(ss["firecraft_intro_atlas_1"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.archer_01 = function() {
-	this.initialize(ss["firecraft_intro_atlas_2"]);
+	this.initialize(ss["firecraft_intro_atlas_1"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.background_2 = function() {
-	this.initialize(ss["firecraft_intro_atlas_2"]);
+	this.initialize(ss["firecraft_intro_atlas_1"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.branches = function() {
-	this.initialize(ss["firecraft_intro_atlas_1"]);
+	this.initialize(ss["firecraft_intro_atlas_2"]);
 	this.gotoAndStop(11);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.dead_tree = function() {
-	this.initialize(ss["firecraft_intro_atlas_1"]);
+	this.initialize(ss["firecraft_intro_atlas_2"]);
 	this.gotoAndStop(12);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.debris_forest = function() {
-	this.initialize(ss["firecraft_intro_atlas_2"]);
+	this.initialize(ss["firecraft_intro_atlas_1"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.fire_log_0 = function() {
-	this.initialize(ss["firecraft_intro_atlas_1"]);
+	this.initialize(ss["firecraft_intro_atlas_2"]);
 	this.gotoAndStop(13);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.fire_log_1 = function() {
-	this.initialize(ss["firecraft_intro_atlas_1"]);
+	this.initialize(ss["firecraft_intro_atlas_2"]);
 	this.gotoAndStop(14);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.fire_log_2 = function() {
-	this.initialize(ss["firecraft_intro_atlas_1"]);
+	this.initialize(ss["firecraft_intro_atlas_2"]);
 	this.gotoAndStop(15);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.fire_log_3 = function() {
-	this.initialize(ss["firecraft_intro_atlas_1"]);
+	this.initialize(ss["firecraft_intro_atlas_2"]);
 	this.gotoAndStop(16);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.fire_log_4 = function() {
-	this.initialize(ss["firecraft_intro_atlas_1"]);
+	this.initialize(ss["firecraft_intro_atlas_2"]);
 	this.gotoAndStop(17);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.fire_log_5 = function() {
-	this.initialize(ss["firecraft_intro_atlas_1"]);
+	this.initialize(ss["firecraft_intro_atlas_2"]);
 	this.gotoAndStop(18);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.fire_log_6 = function() {
-	this.initialize(ss["firecraft_intro_atlas_1"]);
+	this.initialize(ss["firecraft_intro_atlas_2"]);
 	this.gotoAndStop(19);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.fire_log_7 = function() {
-	this.initialize(ss["firecraft_intro_atlas_1"]);
+	this.initialize(ss["firecraft_intro_atlas_2"]);
 	this.gotoAndStop(20);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.log = function() {
-	this.initialize(ss["firecraft_intro_atlas_1"]);
+	this.initialize(ss["firecraft_intro_atlas_2"]);
 	this.gotoAndStop(21);
 }).prototype = p = new cjs.Sprite();
 
@@ -216,35 +216,35 @@ p.nominalBounds = new cjs.Rectangle(0,0,3483,1715);
 
 
 (lib.tree_dead = function() {
-	this.initialize(ss["firecraft_intro_atlas_1"]);
+	this.initialize(ss["firecraft_intro_atlas_2"]);
 	this.gotoAndStop(22);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.viking_1 = function() {
-	this.initialize(ss["firecraft_intro_atlas_1"]);
+	this.initialize(ss["firecraft_intro_atlas_2"]);
 	this.gotoAndStop(23);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.viking_chop = function() {
-	this.initialize(ss["firecraft_intro_atlas_1"]);
+	this.initialize(ss["firecraft_intro_atlas_2"]);
 	this.gotoAndStop(24);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.wizard_0 = function() {
-	this.initialize(ss["firecraft_intro_atlas_1"]);
+	this.initialize(ss["firecraft_intro_atlas_2"]);
 	this.gotoAndStop(25);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.wizard_cast = function() {
-	this.initialize(ss["firecraft_intro_atlas_1"]);
+	this.initialize(ss["firecraft_intro_atlas_2"]);
 	this.gotoAndStop(26);
 }).prototype = p = new cjs.Sprite();
 // helper functions:
